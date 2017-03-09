@@ -2,7 +2,7 @@
 Personal Maintain Program Development.    
 PMP Personal Maintain Program ver. 0.0.8    
 written by Kali_Yuga 2017 
-poorly programmed. :D    
+poorly written. :D    
 All Debian!    
 Made for beginners that switched from Windows to Linux.    
 Easy Update & Maintain your System on the Terminal.    
