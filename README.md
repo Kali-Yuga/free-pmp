@@ -1,6 +1,6 @@
 # free-pmp-llc
 Personal Maintain Program Development.    
-PMP Personal Maintain Program ver. 0.0.8    
+PMP Personal Maintain Program ver. 0.0.9  
 poorly written by Kali_Yuga.    
 All Debian!    
 Made for beginners that switched from Windows to Linux.    
@@ -10,4 +10,4 @@ this is basically just a Bash script for learning and it is not professional mad
 Mainly use it myself.    
 No warranty whatsoever!    
 
-to execute the script, change Permission's with sudo chmod +x & use with './PMP0.0.8' in Terminal.    
+to execute the script, change Permission's with sudo chmod +x & use with './PMP0.0.9' in Terminal.    
