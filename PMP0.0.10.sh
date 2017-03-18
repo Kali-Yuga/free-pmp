@@ -345,7 +345,7 @@ case $CHOICE in
 		      1) ##Show Installed Driver
 		      dpkg -l | grep nvidia > /tmp/space.txt
 		      dialog --clear \
-		      --backtitle " / Installed Driver" \
+		      --backtitle "$BACKTITLE / Installed Driver" \
 		      --title "$TITLE" \
 		      --textbox /tmp/space.txt 15 75
 		      ;;
