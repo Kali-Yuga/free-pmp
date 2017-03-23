@@ -7,9 +7,9 @@ clear
 HEIGHT=17
 WIDTH=50
 CHOICE_HEIGHT=9
-BACKTITLE="PMP v.0.0.11 by Kali_Yuga"
+BACKTITLE="PMP v.0.0.11 by Kali_Yuga" 
 TITLE="PMP - Personal-Maintain-Program v.0.0.11"
-MENU="Select one of the following Options:"
+MENU="Select one of the following Options:" 
 
 OPTIONS=(1 "Computer Maintenance"
          2 "System Monitor"
@@ -1330,7 +1330,7 @@ case $CHOICE in
 			    if [ "$?" -eq 0 ]; then ##YES File in DIR
 					clear
 					printf "==========================================\n";
-					printf "|19. DvD2ISO             	   	   |\n";
+					printf "|19. DvD2ISO                             |\n";
 					printf "==========================================\n\n";
 					sleep 1
 					printf "\nHi,\nPress 'Enter' to Convert $FILE' in $DIR, or press 'Ctrl + C' to exit:\n";
