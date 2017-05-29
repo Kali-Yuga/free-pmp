@@ -211,7 +211,7 @@ case $CHOICE in
 			if [ "$?" -eq 0 ]; then ##Okay in Force Kernel-Remover
 			  case $CHOICE in
 			    1)
-			      printf "Make sure your current running Kernel is not on this list!\n----------------------------------------------------------" > /tmp/space.txt
+			      printf "Make sure your current running Kernel is not on this list!\n----------------------------------------------------------\n" > /tmp/space.txt
 			      dpkg -l linux-{image,headers}-"[0-9]*" | awk '/^ii/{ print $2}' | grep -v -e `uname -r | cut -f1,2 -d"-"` | grep -e '[0-9]' >> /tmp/space.txt
 			      dialog --clear \
 				     --backtitle "$BACKTITLE / Show unused Kernel" \
