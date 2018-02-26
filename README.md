@@ -10,4 +10,4 @@ this is basically just a Bash script for learning and it is not professional mad
 Mainly use it myself.    
 No warranty whatsoever!    
 
-to execute the script, change Permission's with sudo chmod +x & run with './PMP0.0.17' in Terminal.    
+to execute the script, change Permission's with sudo chmod +x & run with './PMP0.0.18' in Terminal.    
