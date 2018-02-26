@@ -964,7 +964,7 @@ case $CHOICE in
 		      kill $PID
 		      dialog \
 		      --backtitle "$BACKTITLE" \
-		      --infobox "Process ID $PID killed" 3 20;
+		      --infobox "Process ID $PID killed" 3 32;
 		      sleep 2;
 			  elif [ "$?" -eq 1 ]; then
 			  clear;
