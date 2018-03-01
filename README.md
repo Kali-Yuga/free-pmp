@@ -1,7 +1,7 @@
 # free-pmp-llc
 Personal Maintain Program Development.    
 PMP Personal Maintain Program ver. 0.0.18
-poorly written by Kali_Yuga.    
+by Kali_Yuga.    
 All Debian!    
 Made for beginners that switched from Windows to Linux.    
 Easy Update & Maintain your System on the Terminal.    
