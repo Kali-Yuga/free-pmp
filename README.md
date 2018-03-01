@@ -1,13 +1,12 @@
 # free-pmp-llc
-Personal Maintain Program Development.    
 PMP Personal Maintain Program ver. 0.0.18
 by Kali_Yuga.    
 All Debian!    
-Made for beginners that switched from Windows to Linux.    
-Easy Update & Maintain your System on the Terminal.    
-without having to know commands!    
-this is basically just a Bash script for learning and it is not professional made!     
-Mainly use it myself.    
+Made for beginners that switched from windows to linux.    
+Easy update & maintain your system on the terminal.    
+Without having to know commands!    
+This is just a bash script for learning and it's not professional made!     
+Mainly use it myself.  
 No warranty whatsoever!    
 
-to execute the script, change Permission's with sudo chmod +x & run with './PMP0.0.18' in Terminal.    
+TO RUN: Change permission's 'sudo chmod +x ./PMP0.0.18' and execute with './PMP0.0.18' in your Terminal.    
