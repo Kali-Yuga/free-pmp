@@ -7,8 +7,8 @@ Easy update & maintain your system on the terminal.
 Without having to know commands!    
 This is just a bash script for learning and it's not professional made!     
 Mainly use it myself.  
-No warranty whatsoever!    
+No warranty whatsoever!
 
 TO RUN: 
 Change permission's 'sudo chmod +x PMP0.0.20.sh'
-and execute with './PMP0.0.20.sh' in your Terminal.    
+and execute with './PMP0.0.20.sh' in your Terminal.
