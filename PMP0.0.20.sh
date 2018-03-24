@@ -3915,7 +3915,7 @@ case $CHOICE in
                 HEIGHT=17
                 WIDTH=50
                 CHOICE_HEIGHT=6
-                BACKTITLE="PMP v.0.0.20 by Kali_Yuga / PMP Software Center / Graphics"
+                BACKTITLE="PMP v.0.0.20 by Kali_Yuga / Software Center / Graphics"
                 TITLE="Graphics"
                 MENU="Select one:"
                 OPTIONS=(1 "3D"
