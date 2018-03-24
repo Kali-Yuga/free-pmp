@@ -1312,7 +1312,7 @@ case $CHOICE in
                 HEIGHT=17
                 WIDTH=50
                 CHOICE_HEIGHT=10
-                BACKTITLE="PMP v.0.0.20 by Kali_Yuga / PMP Software Center / Accessories"
+                BACKTITLE="PMP v.0.0.20 by Kali_Yuga / Software Center / Accessories"
                 TITLE="Accessories"
                 MENU="Select one:"
                 OPTIONS=(1 "Archive Manager - Gnome Archive Manager"
@@ -1493,7 +1493,7 @@ case $CHOICE in
                             HEIGHT=17
                             WIDTH=50
                             CHOICE_HEIGHT=10
-                            BACKTITLE="PMP v.0.0.20 by Kali_Yuga / PMP Software Center / Accessories"
+                            BACKTITLE="PMP v.0.0.20 by Kali_Yuga / Software Center / Accessories"
                             TITLE="Accessories"
                             MENU="Select one:"
                             OPTIONS=(1 "GVim - Text Editor"
@@ -1674,7 +1674,7 @@ case $CHOICE in
                                     HEIGHT=17
                                     WIDTH=50
                                     CHOICE_HEIGHT=4
-                                    BACKTITLE="PMP v.0.0.20 by Kali_Yuga / PMP Software Center / Accessories"
+                                    BACKTITLE="PMP v.0.0.20 by Kali_Yuga / Software Center / Accessories"
                                     TITLE="Accessories"
                                     MENU="Select one:"
                                     OPTIONS=(1 "Virtual Box - Virtual System"
@@ -1768,7 +1768,7 @@ case $CHOICE in
                 HEIGHT=17
                 WIDTH=50
                 CHOICE_HEIGHT=6
-                BACKTITLE="PMP v.0.0.20 by Kali_Yuga / PMP Software Center / Accessibility"
+                BACKTITLE="PMP v.0.0.20 by Kali_Yuga / Software Center / Accessibility"
                 TITLE="Accessibility"
                 MENU="Select one:"
                 OPTIONS=(1 "Orca - Screen Reader"
@@ -1900,7 +1900,7 @@ case $CHOICE in
                 HEIGHT=17
                 WIDTH=50
                 CHOICE_HEIGHT=10
-                BACKTITLE="PMP v.0.0.20 by Kali_Yuga / PMP Software Center / Education"
+                BACKTITLE="PMP v.0.0.20 by Kali_Yuga / Software Center / Education"
                 TITLE="Education"
                 MENU="Select one:"
                 OPTIONS=(1 "Achilles - Evolution Simulator"
@@ -2081,7 +2081,7 @@ case $CHOICE in
                                 HEIGHT=17
                                 WIDTH=50
                                 CHOICE_HEIGHT=10
-                                BACKTITLE="PMP v.0.0.20 by Kali_Yuga / PMP Software Center / Education"
+                                BACKTITLE="PMP v.0.0.20 by Kali_Yuga / Software Center / Education"
                                 TITLE="Education"
                                 MENU="Select one:"
                                 OPTIONS=(1 "Glogic - Graphical Circuit Simulator"
@@ -2262,7 +2262,7 @@ case $CHOICE in
                                         HEIGHT=17
                                         WIDTH=50
                                         CHOICE_HEIGHT=10
-                                        BACKTITLE="PMP v.0.0.20 by Kali_Yuga / PMP Software Center / Education"
+                                        BACKTITLE="PMP v.0.0.20 by Kali_Yuga / Software Center / Education"
                                         TITLE="Education"
                                         MENU="Select one:"
                                         OPTIONS=(1 "Kiten - Japanese Study Aid"
@@ -2443,7 +2443,7 @@ case $CHOICE in
                                             HEIGHT=17
                                             WIDTH=50
                                             CHOICE_HEIGHT=7
-                                            BACKTITLE="PMP v.0.0.20 by Kali_Yuga / PMP Software Center / Education"
+                                            BACKTITLE="PMP v.0.0.20 by Kali_Yuga / Software Center / Education"
                                             TITLE="Education"
                                             MENU="Select one:"
                                             OPTIONS=(1 "Scratch - Easy Programming Enviroment"
@@ -2597,7 +2597,7 @@ case $CHOICE in
                 HEIGHT=17
                 WIDTH=50
                 CHOICE_HEIGHT=10
-                BACKTITLE="PMP v.0.0.20 by Kali_Yuga / PMP Software Center / Office"
+                BACKTITLE="PMP v.0.0.20 by Kali_Yuga / Software Center / Office"
                 TITLE="Office"
                 MENU="Select one:"
                 OPTIONS=(1 "Abiword - Word Processor"
@@ -2778,7 +2778,7 @@ case $CHOICE in
                             HEIGHT=17
                             WIDTH=50
                             CHOICE_HEIGHT=6
-                            BACKTITLE="PMP v.0.0.20 by Kali_Yuga / PMP Software Center / Office"
+                            BACKTITLE="PMP v.0.0.20 by Kali_Yuga / Software Center / Office"
                             TITLE="Internet"
                             MENU="Select one:"
                             OPTIONS=(1 "LibreOffice Math - Equation Editor"
@@ -2902,7 +2902,7 @@ case $CHOICE in
                 HEIGHT=17
                 WIDTH=50
                 CHOICE_HEIGHT=4
-                BACKTITLE="PMP v.0.0.20 by Kali_Yuga / PMP Software Center / Internet"
+                BACKTITLE="PMP v.0.0.20 by Kali_Yuga / Software Center / Internet"
                 TITLE="Internet"
                 MENU="Select one:"
                 OPTIONS=(1 "Web Browser"
@@ -2924,7 +2924,7 @@ case $CHOICE in
                             HEIGHT=17
                             WIDTH=50
                             CHOICE_HEIGHT=5
-                            BACKTITLE="PMP v.0.0.20 by Kali_Yuga / PMP Software Center / Internet / Web Browser"
+                            BACKTITLE="PMP v.0.0.20 by Kali_Yuga / Software Center / Internet / Web Browser"
                             TITLE="Web Browser"
                             MENU="Select one:"
                             OPTIONS=(1 "Firefox"
@@ -3018,7 +3018,7 @@ case $CHOICE in
                             HEIGHT=17
                             WIDTH=50
                             CHOICE_HEIGHT=5
-                            BACKTITLE="PMP v.0.0.20 by Kali_Yuga / PMP Software Center / Internet / File Sharing"
+                            BACKTITLE="PMP v.0.0.20 by Kali_Yuga / Software Center / Internet / File Sharing"
                             TITLE="File Sharing"
                             MENU="Select one:"
                             OPTIONS=(1 "BitTorrent - BitTorrent Client"
@@ -3112,7 +3112,7 @@ case $CHOICE in
                             HEIGHT=17
                             WIDTH=50
                             CHOICE_HEIGHT=2
-                            BACKTITLE="PMP v.0.0.20 by Kali_Yuga / PMP Software Center / Internet / Mail"
+                            BACKTITLE="PMP v.0.0.20 by Kali_Yuga / Software Center / Internet / Mail"
                             TITLE="Multimedia"
                             MENU="Select one:"
                             OPTIONS=(1 "Tunderbird"
@@ -3236,7 +3236,7 @@ case $CHOICE in
                 HEIGHT=17
                 WIDTH=50
                 CHOICE_HEIGHT=10
-                BACKTITLE="PMP v.0.0.20 by Kali_Yuga / PMP Software Center / Multimedia"
+                BACKTITLE="PMP v.0.0.20 by Kali_Yuga / Software Center / Multimedia"
                 TITLE="Multimedia"
                 MENU="Select one:"
                 OPTIONS=(1 "Ardour - Audio Workstation"
@@ -3417,7 +3417,7 @@ case $CHOICE in
                             HEIGHT=17
                             WIDTH=50
                             CHOICE_HEIGHT=10
-                            BACKTITLE="PMP v.0.0.20 by Kali_Yuga / PMP Software Center / Multimedia"
+                            BACKTITLE="PMP v.0.0.20 by Kali_Yuga / Software Center / Multimedia"
                             TITLE="Multimedia"
                             MENU="Select one:"
                             OPTIONS=(1 "Gnome-Alsamixer - ALSA Sound Mixer"
@@ -3598,7 +3598,7 @@ case $CHOICE in
                                         HEIGHT=17
                                         WIDTH=50
                                         CHOICE_HEIGHT=10
-                                        BACKTITLE="PMP v.0.0.20 by Kali_Yuga / PMP Software Center / Multimedia"
+                                        BACKTITLE="PMP v.0.0.20 by Kali_Yuga / Software Center / Multimedia"
                                         TITLE="Multimedia"
                                         MENU="Select one:"
                                         OPTIONS=(1 "Kodi - Media Player"
@@ -3779,7 +3779,7 @@ case $CHOICE in
                                                 HEIGHT=17
                                                 WIDTH=50
                                                 CHOICE_HEIGHT=6
-                                                BACKTITLE="PMP v.0.0.20 by Kali_Yuga / PMP Software Center / Multimedia"
+                                                BACKTITLE="PMP v.0.0.20 by Kali_Yuga / Software Center / Multimedia"
                                                 TITLE="Multimedia"
                                                 MENU="Select one:"
                                                 OPTIONS=(1 "Subtitleeditor - GTK Subtitle Editor"
@@ -3939,7 +3939,7 @@ case $CHOICE in
                             HEIGHT=17
                             WIDTH=50
                             CHOICE_HEIGHT=2
-                            BACKTITLE="PMP v.0.0.20 by Kali_Yuga / PMP Software Center / Graphics / 3D"
+                            BACKTITLE="PMP v.0.0.20 by Kali_Yuga / Software Center / Graphics / 3D"
                             TITLE="3D"
                             MENU="Select one:"
                             OPTIONS=(1 "Aqsis - 3D Rendering Solution"
@@ -3999,7 +3999,7 @@ case $CHOICE in
                             HEIGHT=17
                             WIDTH=50
                             CHOICE_HEIGHT=1
-                            BACKTITLE="PMP v.0.0.20 by Kali_Yuga / PMP Software Center / Graphics / Drawing"
+                            BACKTITLE="PMP v.0.0.20 by Kali_Yuga / Software Center / Graphics / Drawing"
                             TITLE="Games"
                             MENU="Select one:"
                             OPTIONS=(1 "Libre Office Draw")
@@ -4041,7 +4041,7 @@ case $CHOICE in
                             HEIGHT=17
                             WIDTH=50
                             CHOICE_HEIGHT=2
-                            BACKTITLE="PMP v.0.0.20 by Kali_Yuga / PMP Software Center / Graphics / Painting & Editing"
+                            BACKTITLE="PMP v.0.0.20 by Kali_Yuga / Software Center / Graphics / Painting & Editing"
                             TITLE="Panting & Editing"
                             MENU="Select one:"
                             OPTIONS=(1 "Gimp - Image Editor"
@@ -4101,7 +4101,7 @@ case $CHOICE in
                             HEIGHT=17
                             WIDTH=50
                             CHOICE_HEIGHT=2
-                            BACKTITLE="PMP v.0.0.20 by Kali_Yuga / PMP Software Center / Graphics / Photography"
+                            BACKTITLE="PMP v.0.0.20 by Kali_Yuga / Software Center / Graphics / Photography"
                             TITLE="Photography"
                             MENU="Select one:"
                             OPTIONS=(1 "Gwenview - Image Viewer"
@@ -4161,7 +4161,7 @@ case $CHOICE in
                             HEIGHT=17
                             WIDTH=50
                             CHOICE_HEIGHT=1
-                            BACKTITLE="PMP v.0.0.20 by Kali_Yuga / PMP Software Center / Graphics / Scanning"
+                            BACKTITLE="PMP v.0.0.20 by Kali_Yuga / Software Center / Graphics / Scanning"
                             TITLE="Scanning"
                             MENU="Select one:"
                             OPTIONS=(1 "SimpleScan - Scan Utility")
@@ -4203,7 +4203,7 @@ case $CHOICE in
                             HEIGHT=17
                             WIDTH=50
                             CHOICE_HEIGHT=3
-                            BACKTITLE="PMP v.0.0.20 by Kali_Yuga / PMP Software Center / Graphics / Viewers"
+                            BACKTITLE="PMP v.0.0.20 by Kali_Yuga / Software Center / Graphics / Viewers"
                             TITLE="Viewers"
                             MENU="Select one:"
                             OPTIONS=(1 "Aeskulap - Medical Image Viewer"
@@ -4287,7 +4287,7 @@ case $CHOICE in
                 HEIGHT=17
                 WIDTH=50
                 CHOICE_HEIGHT=7
-                BACKTITLE="PMP v.0.0.20 by Kali_Yuga / PMP Software Center / Games"
+                BACKTITLE="PMP v.0.0.20 by Kali_Yuga / Software Center / Games"
                 TITLE="Games"
                 MENU="Select one:"
                 OPTIONS=(1 "Arcarde"
@@ -4312,7 +4312,7 @@ case $CHOICE in
                             HEIGHT=17
                             WIDTH=50
                             CHOICE_HEIGHT=9
-                            BACKTITLE="PMP v.0.0.20 by Kali_Yuga / PMP Software Center / Games / Arcarde"
+                            BACKTITLE="PMP v.0.0.20 by Kali_Yuga / Software Center / Games / Arcarde"
                             TITLE="Arcarde"
                             MENU="Select one:"
                             OPTIONS=(1 "Bloboats - Arcarde Boat Racing Game"
@@ -4498,7 +4498,7 @@ case $CHOICE in
                             HEIGHT=17
                             WIDTH=50
                             CHOICE_HEIGHT=8
-                            BACKTITLE="PMP v.0.0.20 by Kali_Yuga / PMP Software Center / Board Games"
+                            BACKTITLE="PMP v.0.0.20 by Kali_Yuga / Software Center / Board Games"
                             TITLE="Board Games"
                             MENU="Select one:"
                             OPTIONS=(1 "3D Chess - Chess Game"
@@ -4666,7 +4666,7 @@ case $CHOICE in
                             HEIGHT=17
                             WIDTH=50
                             CHOICE_HEIGHT=3
-                            BACKTITLE="PMP v.0.0.20 by Kali_Yuga / PMP Software Center / Games / Card Games"
+                            BACKTITLE="PMP v.0.0.20 by Kali_Yuga / Software Center / Games / Card Games"
                             TITLE="Card Games"
                             MENU="Select one:"
                             OPTIONS=(1 "Aisleriot - Solitaire"
@@ -4744,7 +4744,7 @@ case $CHOICE in
                             HEIGHT=17
                             WIDTH=50
                             CHOICE_HEIGHT=9
-                            BACKTITLE="PMP v.0.0.20 by Kali_Yuga / PMP Software Center / Games / Puzzles"
+                            BACKTITLE="PMP v.0.0.20 by Kali_Yuga / Software Center / Games / Puzzles"
                             TITLE="Puzzles"
                             MENU="Select one:"
                             OPTIONS=(1 "Amoebax - Puyo Puyo Style Puzzle"
@@ -4930,7 +4930,7 @@ case $CHOICE in
                             HEIGHT=17
                             WIDTH=50
                             CHOICE_HEIGHT=2
-                            BACKTITLE="PMP v.0.0.20 by Kali_Yuga / PMP Software Center / Games / Role Playing"
+                            BACKTITLE="PMP v.0.0.20 by Kali_Yuga / Software Center / Games / Role Playing"
                             TITLE="Role Playing"
                             MENU="Select one:"
                             OPTIONS=(1 "Flare - 2D Action Role-Playing Game"
@@ -4990,7 +4990,7 @@ case $CHOICE in
                             HEIGHT=17
                             WIDTH=50
                             CHOICE_HEIGHT=4
-                            BACKTITLE="PMP v.0.0.20 by Kali_Yuga / PMP Software Center / Games / Simulation"
+                            BACKTITLE="PMP v.0.0.20 by Kali_Yuga / Software Center / Games / Simulation"
                             TITLE="Simulation"
                             MENU="Select one:"
                             OPTIONS=(1 "Achilles - Evolution Simulator"
@@ -5086,7 +5086,7 @@ case $CHOICE in
                             HEIGHT=17
                             WIDTH=50
                             CHOICE_HEIGHT=4
-                            BACKTITLE="PMP v.0.0.20 by Kali_Yuga / PMP Software Center / Games / Sports"
+                            BACKTITLE="PMP v.0.0.20 by Kali_Yuga / Software Center / Games / Sports"
                             TITLE="Sports"
                             MENU="Select one:"
                             OPTIONS=(1 "ETW - Arcade Style Soccer Game"
