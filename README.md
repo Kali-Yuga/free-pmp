@@ -1,5 +1,5 @@
 # free-pmp
-PMP Personal Maintain Program ver. 0.0.20
+PMP Personal Maintain Program ver. 0.0.21
 by Kali_Yuga.    
 All Debian!    
 Made for beginners that switched from windows to linux.    
@@ -10,5 +10,5 @@ Mainly use it myself.
 No warranty whatsoever!
 
 TO RUN: 
-Change permission's 'sudo chmod +x PMP0.0.20.sh'
-and execute with './PMP0.0.20.sh' in your Terminal.
+Change permission's 'sudo chmod +x PMP0.0.21.sh'
+and execute with './PMP0.0.21.sh' in your Terminal.
