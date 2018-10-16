@@ -10,5 +10,5 @@ Mainly use it myself.
 No warranty whatsoever!
 
 TO RUN: 
-Change permission's 'sudo chmod +x PMP0.0.23.sh'
-and execute with './PMP0.0.23.sh' in your Terminal.
+Change permission's 'sudo chmod +x PMP0.0.24.sh'
+and execute with './PMP0.0.24.sh' in your Terminal.
